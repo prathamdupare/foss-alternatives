@@ -63,7 +63,7 @@ This page provides the list of all open source alternatives to proprietary softw
 | Google Drive/ OneDrive/ Dropbox    | [Nextcloud](https://nextcloud.com/)
 | Gaming                   | [WINE](https://www.winehq.org/)
 | Torrent                  | [qBittorent](https://www.qbittorrent.org/)/ [Deluge](https://deluge-torrent.org/)
-
+ 
 
 
 
