@@ -1,4 +1,4 @@
-# prathamdupare.github.io
+# FOSS Alternatives
 This page provides the list of all open source alternatives to proprietary software and services.
 
 (gets reguarly updated)
@@ -65,17 +65,5 @@ This page provides the list of all open source alternatives to proprietary softw
 | Torrent                  | [qBittorent](https://www.qbittorrent.org/)/ [Deluge](https://deluge-torrent.org/)
 
 
-## See Also 
-- [Android 13 - Info you need before release.](/blog/android_13)
-- [Reasons you need to use FOSS](/blog/fifthpost)
 
-#### Comments
 
-<script src="https://utteranc.es/client.js"
-        repo="prathamdupare/fosspage_web"
-        issue-term="pathname"
-        label="Comment"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
