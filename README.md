@@ -19,7 +19,7 @@ This page provides the list of all open source alternatives to proprietary softw
 - Camera: [Open-Camera](https://opencamera.org.uk/)
 - Any video player: [VLC](https://www.videolan.org/vlc/download-android.html)
 - Password Manager: [Bitwarden](https://bitwarden.com/download/)
-- Clock: [Just a Clock](https://codeberg.org/arthurooo38/just-a-clock)
+- Clock: [Just a Clock](https://codeberg.org/arthurooo38/just-a-clock) / [Simple Clock](https://f-droid.org/en/packages/com.simplemobiletools.clock/) 
 - Dialer: [Koler](https://github.com/Chooloo/koler)
 - PDF Reader: [MuPDF](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/)
 - Google Keep: [Fokus](https://github.com/icabetong/fokus-android)
